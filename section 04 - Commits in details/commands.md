@@ -2,7 +2,7 @@
 
 1. Always use present tenses while giving commit message
 
-2. Chaning default editor for git
+2. Changing default editor for git commits and other stuff
 
    `git config --global core.editor "code --wait"`
 
