@@ -21,3 +21,5 @@
    `git commit --amend <commit_message>`
 
 7. We can ignore any file or folder by adding `.gitignore` file in the project root location
+
+8. We can use this website [gitignore.io](https://www.toptal.com/developers/gitignore/) for adding gitignore file content based on the language
