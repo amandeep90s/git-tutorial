@@ -19,3 +19,5 @@
 6. We can amend the last or previous commit only with below command
 
    `git commit --amend <commit_message>`
+
+7. We can ignore any file or folder by adding `.gitignore` file in the project root location
